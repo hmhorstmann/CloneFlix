@@ -1,0 +1,84 @@
+@media screen and (max-width: 700px) {
+	header .container {
+		display: flex;
+		flex-direction: column;
+		align-items: flex-start;
+	}
+
+	.filme-principal .container {
+		width: 90%;
+	}
+
+	.filme-principal .container h3,
+	p {
+		width: 75%;
+	}
+
+	.botoes {
+		display: flex;
+		justify-content: flex-start;
+	}
+
+	.botao {
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+	}
+
+	.botao i {
+		margin-right: 5px;
+	}
+}
+
+@media screen and (max-width: 520px) {
+	header .container {
+		display: flex;
+		flex-direction: column;
+		align-items: flex-start;
+	}
+
+	.filme-principal .container {
+		width: 90%;
+	}
+
+	.filme-principal .container h3,
+	p {
+		width: 75%;
+	}
+
+	.botoes {
+		display: flex;
+		justify-content: flex-start;
+	}
+
+	.botao {
+		width: 160px;
+		margin: -10px 10px 20px;
+
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+	}
+
+	.botao i {
+		margin-right: 5px;
+	}
+}
+
+@media screen and (max-width: 360px) {
+	header .container {
+		display: flex;
+		flex-direction: column;
+		align-items: flex-start;
+	}
+
+	.botao {
+		width: fit-content;
+		margin: -10px 0 20px;
+	}
+
+	.botoes {
+		display: flex;
+		flex-direction: column;
+	}
+}
