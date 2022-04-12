@@ -10,6 +10,11 @@ Recriando a Interface do Netflix para o **Desafio de Projeto - DIO**
 
  ### Versões Futuras
 
- - Adicioar as funcionalidade nas ancoras e botões da interface
+ - Adicioar as funcionalidades nas âncoras e botões da interface
  - Modificar a temática da interface
- - Renderizar conteúdo acessado de uma API
+ - Renderizar o conteúdo acessado através de uma API
+
+
+<div align="center">
+    <img alt="Poster" src="https://github.com/hmhorstmann/Cloneflix/blob/main/img/Poster.PNG">
+</div>
